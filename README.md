@@ -1,0 +1,2 @@
+# LojaDeJogo
+Atividade da Generation
